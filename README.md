@@ -1,4 +1,4 @@
-# C-Fundamentals
+# C# Fundamentals
 Introductory course into learning about C#. Course is derived from Udemy - 'C# for beginners Crash Course'
 
 Link to course: https://www.udemy.com/course/learn-csharp-for-beginners-crash-course/learn/lecture/12530324#overview
