@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f71795fb-f88d-4ee3-9e5c-8f3900a1f291": {
+      "ProjectGuid": "f71795fb-f88d-4ee3-9e5c-8f3900a1f291",
+      "DisplayName": "HelloWorld-Console",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
