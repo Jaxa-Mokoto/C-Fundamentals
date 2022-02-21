@@ -1,0 +1,7 @@
+C:\Users\we40124\Documents\GitHub\C-Fundamentals\Eliza\Eliza\bin\Debug\Eliza.exe.config
+C:\Users\we40124\Documents\GitHub\C-Fundamentals\Eliza\Eliza\bin\Debug\Eliza.exe
+C:\Users\we40124\Documents\GitHub\C-Fundamentals\Eliza\Eliza\bin\Debug\Eliza.pdb
+C:\Users\we40124\Documents\GitHub\C-Fundamentals\Eliza\Eliza\obj\Debug\ElizaIsSilly.csproj.SuggestedBindingRedirects.cache
+C:\Users\we40124\Documents\GitHub\C-Fundamentals\Eliza\Eliza\obj\Debug\ElizaIsSilly.csproj.CoreCompileInputs.cache
+C:\Users\we40124\Documents\GitHub\C-Fundamentals\Eliza\Eliza\obj\Debug\Eliza.exe
+C:\Users\we40124\Documents\GitHub\C-Fundamentals\Eliza\Eliza\obj\Debug\Eliza.pdb

@@ -1,11 +1,11 @@
 {
   "Version": 1,
   "ProjectMap": {
-    "f71795fb-f88d-4ee3-9e5c-8f3900a1f291": {
-      "ProjectGuid": "f71795fb-f88d-4ee3-9e5c-8f3900a1f291",
-      "DisplayName": "HelloWorld-Console",
-      "ColorIndex": 0
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 0
 }
