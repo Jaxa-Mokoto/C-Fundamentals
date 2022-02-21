@@ -1,0 +1,8 @@
+C:\Users\we40124\Documents\GitHub\C-Fundamentals\HelloWorld\obj\Debug\HelloWorld.csproj.AssemblyReference.cache
+C:\Users\we40124\Documents\GitHub\C-Fundamentals\HelloWorld\obj\Debug\HelloWorld.csproj.SuggestedBindingRedirects.cache
+C:\Users\we40124\Documents\GitHub\C-Fundamentals\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\we40124\Documents\GitHub\C-Fundamentals\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\we40124\Documents\GitHub\C-Fundamentals\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\we40124\Documents\GitHub\C-Fundamentals\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\we40124\Documents\GitHub\C-Fundamentals\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\we40124\Documents\GitHub\C-Fundamentals\HelloWorld\obj\Debug\HelloWorld.pdb
