@@ -123,8 +123,8 @@ namespace ElizaIsSilly
         public static string Response(string userInput)
         {
             // check through the matches list, and if there's a match, strip off the match and replace with the response.
-            // If the response contains %1, replace that with the Remainder of the input string.
-            // Before replacing, change words in the Remainder of the input with the corresponding entry from the reflections dictionary.
+            // If the response contains %1, replace that with the remainder of the input string.
+            // Before replacing, change words in the remainder of the input with the corresponding entry from the reflections dictionary.
 
             string output = string.Empty;
             string remainder = string.Empty;
