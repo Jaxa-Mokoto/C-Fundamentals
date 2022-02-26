@@ -1,0 +1,8 @@
+C:\Users\we40124\Documents\GitHub\C-Fundamentals\Variables\bin\Debug\Variables.exe.config
+C:\Users\we40124\Documents\GitHub\C-Fundamentals\Variables\bin\Debug\Variables.exe
+C:\Users\we40124\Documents\GitHub\C-Fundamentals\Variables\bin\Debug\Variables.pdb
+C:\Users\we40124\Documents\GitHub\C-Fundamentals\Variables\obj\Debug\Variables.csproj.AssemblyReference.cache
+C:\Users\we40124\Documents\GitHub\C-Fundamentals\Variables\obj\Debug\Variables.csproj.SuggestedBindingRedirects.cache
+C:\Users\we40124\Documents\GitHub\C-Fundamentals\Variables\obj\Debug\Variables.csproj.CoreCompileInputs.cache
+C:\Users\we40124\Documents\GitHub\C-Fundamentals\Variables\obj\Debug\Variables.exe
+C:\Users\we40124\Documents\GitHub\C-Fundamentals\Variables\obj\Debug\Variables.pdb
