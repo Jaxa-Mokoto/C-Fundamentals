@@ -6,7 +6,7 @@ namespace Variables
     {
         static void Main(string[] args)
         {
-            Random random = new Random(); //decalares a new random variable and assigns the Random instance to that variable.
+            Random randomNumber = new Random(); //decalares a new random variable and assigns the Random instance to that variable.
 
             /*
              * C# is a statically typed language.
@@ -21,10 +21,10 @@ namespace Variables
              * Variables must not have the same name as a C# keyword i.e. 'class'
             */
 
-            int firstNumber = random.Next(2, 10); //int is the type of the variable
-            int secondNumber = random.Next(2, 10);
-            var subtraction = random.Next(2,10); //var does not explicitly state that our variable is of a specific type. C# documentation suggests that  var should be used only when neccessary.
-            int answer; //with explicitly typed variables (type defined), we are able to not set the initial value. However with inferred variables (i.e. 'var') we must initialise the varible to suggest the returned type.
+            int firstNumber = randomNumber.Next(2, 10); //int is the type of the variable
+            int secondNumber = randomNumber.Next(2, 10);
+            var subtraction = randomNumber.Next(2, 10); //var does not explicitly state that our variable is of a specific type. C# documentation suggests that  var should be used only when neccessary.
+            int answer = firstNumber * secondNumber - subtraction; ; //with explicitly typed variables (type defined), we are able to not set the initial value. However with inferred variables (i.e. 'var') we must initialise the varible to suggest the returned type.
             string prompt = ". Dont type in the answer, just press ENTER when ready.";
 
             Console.WriteLine("Pick a number between 1-10" + prompt);
@@ -38,14 +38,21 @@ namespace Variables
             Console.WriteLine("Now subtract " + subtraction + prompt);
             Console.ReadKey();
 
-            answer = firstNumber * secondNumber - subtraction;
             Console.WriteLine("The answer is " + answer);
             Console.ReadKey();
 
             /*
-             * 
+             * Microsoft naming guidelines: https://docs.microsoft.com/en-us/dotnet/standard/design-guidelines/naming-guidelines
+             * With given examples (naming guidelines): https://github.com/ktaranov/naming-convention
+             
+             * C# Naming Conventions:
+             * Coding conventions help humans read the code.
+             * Adhere to the conventions to help you remember which language you are using.
+             * C# uses Pascal case.
+             * Variable names are used in Camel case.
+             * Method names in C# start with a capital letter.
+             * Start Class names with a capital letter.
             */
-
         }
     }
 }
