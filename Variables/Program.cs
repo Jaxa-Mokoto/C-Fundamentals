@@ -42,10 +42,10 @@ namespace Variables
             Console.ReadKey();
 
             /*
+             * C# Naming Conventions:
              * Microsoft naming guidelines: https://docs.microsoft.com/en-us/dotnet/standard/design-guidelines/naming-guidelines
              * With given examples (naming guidelines): https://github.com/ktaranov/naming-convention
              
-             * C# Naming Conventions:
              * Coding conventions help humans read the code.
              * Adhere to the conventions to help you remember which language you are using.
              * C# uses Pascal case.
