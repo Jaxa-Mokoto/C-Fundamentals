@@ -17,7 +17,7 @@ namespace ElizaIsSilly
                 userInput = Console.ReadLine(); //Response entered which will be read by the sytem/ computer.
 
                 //Get response from Eliza
-                string response = Doctor.response(userInput);
+                string response = Doctor.Response(userInput);
                 Console.WriteLine(response);
             };
         }
