@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Eliza",
+    "\\Eliza\\Eliza"
   ],
+  "SelectedNode": "\\Eliza\\Eliza\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
