@@ -1,0 +1,8 @@
+C:\Users\we40124\Documents\GitHub\C-Fundamentals\HammerBitcoin\bin\Debug\HammerBitcoin.exe.config
+C:\Users\we40124\Documents\GitHub\C-Fundamentals\HammerBitcoin\bin\Debug\HammerBitcoin.exe
+C:\Users\we40124\Documents\GitHub\C-Fundamentals\HammerBitcoin\bin\Debug\HammerBitcoin.pdb
+C:\Users\we40124\Documents\GitHub\C-Fundamentals\HammerBitcoin\obj\Debug\HammerBitcoin.csproj.SuggestedBindingRedirects.cache
+C:\Users\we40124\Documents\GitHub\C-Fundamentals\HammerBitcoin\obj\Debug\HammerBitcoin.csproj.CoreCompileInputs.cache
+C:\Users\we40124\Documents\GitHub\C-Fundamentals\HammerBitcoin\obj\Debug\HammerBitcoin.exe
+C:\Users\we40124\Documents\GitHub\C-Fundamentals\HammerBitcoin\obj\Debug\HammerBitcoin.pdb
+C:\Users\we40124\Documents\GitHub\C-Fundamentals\HammerBitcoin\obj\Debug\HammerBitcoin.csproj.AssemblyReference.cache
