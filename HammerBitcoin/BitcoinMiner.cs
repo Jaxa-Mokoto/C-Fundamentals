@@ -402,7 +402,7 @@ namespace HammerBitcoin
             while (true)
             {
                 Console.Write(message);
-                var userInput = Console.ReadLine();
+                string userInput = Console.ReadLine();
                 try
                 {
                     return int.Parse(userInput);
