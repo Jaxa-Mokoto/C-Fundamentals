@@ -1,0 +1,7 @@
+C:\Users\we40124\Documents\GitHub\C-Fundamentals\UserInput\bin\Debug\UserInput.exe.config
+C:\Users\we40124\Documents\GitHub\C-Fundamentals\UserInput\bin\Debug\UserInput.exe
+C:\Users\we40124\Documents\GitHub\C-Fundamentals\UserInput\bin\Debug\UserInput.pdb
+C:\Users\we40124\Documents\GitHub\C-Fundamentals\UserInput\obj\Debug\UserInput.csproj.SuggestedBindingRedirects.cache
+C:\Users\we40124\Documents\GitHub\C-Fundamentals\UserInput\obj\Debug\UserInput.csproj.CoreCompileInputs.cache
+C:\Users\we40124\Documents\GitHub\C-Fundamentals\UserInput\obj\Debug\UserInput.exe
+C:\Users\we40124\Documents\GitHub\C-Fundamentals\UserInput\obj\Debug\UserInput.pdb
