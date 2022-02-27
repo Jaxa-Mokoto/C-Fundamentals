@@ -6,6 +6,7 @@ namespace StringFormatting
     {
         static void Main(string[] args)
         {
+            //String interpolation allows variable names to be embedded in a string. It will be used to print the value, as long as the string is prefixed with a $.
             string apples = "Apples";
             int appleQuantity = 8;
             int applePrice = 100;
