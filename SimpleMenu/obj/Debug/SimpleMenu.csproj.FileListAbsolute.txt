@@ -1,0 +1,8 @@
+C:\Users\we40124\Documents\GitHub\C-Fundamentals\SimpleMenu\bin\Debug\SimpleMenu.exe.config
+C:\Users\we40124\Documents\GitHub\C-Fundamentals\SimpleMenu\bin\Debug\SimpleMenu.exe
+C:\Users\we40124\Documents\GitHub\C-Fundamentals\SimpleMenu\bin\Debug\SimpleMenu.pdb
+C:\Users\we40124\Documents\GitHub\C-Fundamentals\SimpleMenu\obj\Debug\SimpleMenu.csproj.AssemblyReference.cache
+C:\Users\we40124\Documents\GitHub\C-Fundamentals\SimpleMenu\obj\Debug\SimpleMenu.csproj.SuggestedBindingRedirects.cache
+C:\Users\we40124\Documents\GitHub\C-Fundamentals\SimpleMenu\obj\Debug\SimpleMenu.csproj.CoreCompileInputs.cache
+C:\Users\we40124\Documents\GitHub\C-Fundamentals\SimpleMenu\obj\Debug\SimpleMenu.exe
+C:\Users\we40124\Documents\GitHub\C-Fundamentals\SimpleMenu\obj\Debug\SimpleMenu.pdb
