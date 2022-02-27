@@ -8,11 +8,11 @@ namespace UserInput
         {
             Console.WriteLine("Please enter your name: ");
             string name = Console.ReadLine();
-            Console.WriteLine("Hello " + name);
+            Console.WriteLine($"Hello {name}");  //string interpolation example
 
             Console.WriteLine("How old are you?");
             int age = int.Parse(Console.ReadLine());
-            Console.WriteLine(name + " is " + age + " years old.");
+            Console.WriteLine($"{ name} is {age} years old.");
             Console.ReadLine();
         }
     }
