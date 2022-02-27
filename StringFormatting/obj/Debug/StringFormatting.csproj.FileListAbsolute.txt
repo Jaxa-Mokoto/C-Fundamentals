@@ -1,0 +1,7 @@
+C:\Users\we40124\Documents\GitHub\C-Fundamentals\StringFormatting\bin\Debug\StringFormatting.exe.config
+C:\Users\we40124\Documents\GitHub\C-Fundamentals\StringFormatting\bin\Debug\StringFormatting.exe
+C:\Users\we40124\Documents\GitHub\C-Fundamentals\StringFormatting\bin\Debug\StringFormatting.pdb
+C:\Users\we40124\Documents\GitHub\C-Fundamentals\StringFormatting\obj\Debug\StringFormatting.csproj.SuggestedBindingRedirects.cache
+C:\Users\we40124\Documents\GitHub\C-Fundamentals\StringFormatting\obj\Debug\StringFormatting.csproj.CoreCompileInputs.cache
+C:\Users\we40124\Documents\GitHub\C-Fundamentals\StringFormatting\obj\Debug\StringFormatting.exe
+C:\Users\we40124\Documents\GitHub\C-Fundamentals\StringFormatting\obj\Debug\StringFormatting.pdb
